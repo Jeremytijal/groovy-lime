@@ -2,47 +2,42 @@
 title: Accueil
 sections:
   - actions:
-      - label: Learn More
+      - label: En savoir plus
         url: /features
     content: Profitez d'un accompagnement smartphone
-    image: /images/undraw_mobile_application_mr4r.png
+    image: /images/undraw_mobile_testing_reah.png
     section_id: hero
     title: 'Bienvenue sur mon site '
     type: section_hero
   - bg: gray
     featureslist:
       - actions:
-          - label: Learn More
+          - label: En savoir plus
             url: /features
         content: >-
-          Nam pulvinar ante eu ultricies volutpat. Aenean hendrerit, eros sed
-          aliquet luctus, lorem risus volutpat dolor, nec dignissim diam neque
-          consequat ex.
-        image: images/feature1.png
-        title: The Best Feature of Your Services
+          Formez vous sur le smartphone de votre choix. Profitez de toutes les
+          fonctionnalités de votre smartphone
+        image: /images/undraw_mobile_apps_4wgf.png
+        title: La Formation Smart
       - actions:
-          - label: Learn More
+          - label: En savoir plus
             url: /features
         content: >-
-          Etiam vel urna sed massa egestas vulputate eu a velit. Sed ut nisl nec
-          sapien interdum luctus. Cras rhoncus condimentum metus sit amet
-          auctor.
-        image: images/feature2.png
-        title: Awesome Feature of Your Services
+          Nous trouvons pour vous la meilleure offre télécoms ! Faites des
+          économies grâce à notre partenariats avec les opérateurs.
+        image: /images/undraw_file_searching_duff.png
+        title: Étude personnalisée de vos abonnements
       - actions:
-          - label: Learn More
-            url: /features
+          - label: En savoir plus
+            url: /pricing
         content: >-
-          In ante enim, lobortis quis congue vel, finibus sit amet mi. Aenean
-          quis venenatis sem. Proin eget massa id metus eleifend maximus sit
-          amet nec urna.
-        image: images/feature3.png
-        title: Cool Feature of Your Services
+          Nous vous proposons une assistance pour toutes questions sur vos
+          factures ou votre téléphonie mobile.
+        image: /images/undraw_active_support_6rwo.png
+        title: Assistance personnalisée
     section_id: features
-    subtitle: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus.
-    title: Features
+    subtitle: Découvrez nous services d'accompagnement
+    title: Nos services
     type: section_features
   - bg: white
     reviews:
