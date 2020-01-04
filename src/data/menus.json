@@ -3,7 +3,7 @@
     {
       "identifier": "Menu",
       "title": "Accueil",
-      "url": "/Accueil"
+      "url": "/"
     }
   ]
 }
