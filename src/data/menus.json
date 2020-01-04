@@ -1,1 +1,9 @@
-{}
+{
+  "main": [
+    {
+      "identifier": "Menu",
+      "title": "Accueil",
+      "url": "/home"
+    }
+  ]
+}
