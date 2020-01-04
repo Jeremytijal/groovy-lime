@@ -76,7 +76,7 @@ sections:
     type: section_posts
 menus:
   main:
-    title: Home
+    title: Accueil
     weight: 1
 template: landing
 ---
